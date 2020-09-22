@@ -30,7 +30,7 @@ Astuces:
 | 06   | 300117178 | https://kblinuxca.wordpress.com/2020/09/16/comment-installer-linux-server-20-04/  | 10.13.237.?  |
 | 07   | 300117314 |                                                                | 10.13.237.?  |
 | 08   | 300117782 |                                                                | 10.13.237.?  |
-| 09   | 300117784 |                                                                | 10.13.237.?  |
+| 09   | 300117784 |   https://linuxinstallationca.wordpress.com/                   | 10.13.237.?  |
 | 10   | 300117806 | https://marketing376655173.wordpress.com                       | 10.13.237.?  |
 | 11   | 300118524 |                                                                | 10.13.237.?  |
 
